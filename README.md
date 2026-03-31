@@ -6,7 +6,11 @@
 - Excel-based scouting and lineup analysis dashboard  
 - Features lineup tendencies, position analysis, and last 5 games toggle  
 - Built using dynamic formulas and structured game-level data  
-- 📂 Files: MEC_Scouting_Data_2026.xlsx  
+- 📂 Files: MEC_Scouting_Data_2026.xlsx
+## MEC Scouting Dashboard Preview
+
+![Dashboard Screenshot](MEC_Scouting_Dashboard_Screenshot.png)
+![Season View](MEC_Scouting_Dashboard_Season_Screenshot.png)
 
 ### COVID-19 SQL Project
 - SQL analysis of COVID-19 data  
