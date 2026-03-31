@@ -1,49 +1,41 @@
-College Softball Scouting Dashboard (MEC_Scouting_Dashboard)
+# Lauren Tate – Data Analytics Portfolio
 
-Overview
-This project is an interactive scouting and lineup analysis dashboard built to evaluate player performance, lineup tendencies, and pitching/hitting trends throughout the season.
+## Projects
 
-The dashboard is designed to support coaching decisions by providing insights into:
-	•	Player performance trends
-	•	Lineup optimization
-	•	Position usage
-	•	Recent form (last 5 games vs full season)
+### College Softball Scouting Dashboard (MEC_Scouting_Dashboard)
+- Excel-based scouting and lineup analysis dashboard  
+- Features lineup tendencies, position analysis, and last 5 games toggle  
+- Built using dynamic formulas and structured game-level data  
+- 📂 Files: MEC_Scouting_Data_2026.xlsx  
 
-Key Features
-	•	Lineup tendencies by batting spot
-	•	Most frequent position per player
-	•	Toggle between full season and last 5 games
-	•	Pitching identification and analysis
-	•	Player performance tracking (AVG, OBP, SLG, etc.)
-	•	Dynamic filtering by team and game segments
+### COVID-19 SQL Project
+- SQL analysis of COVID-19 data  
+- Focus on trends, cases, and deaths  
+- 📂 Files: COVID 19 Project.sql  
 
-Data Structure
-Data is structured at the game level with the following key fields:
-	•	Game_ID, Date, Team, Opponent
-	•	Player Name
-	•	Offensive stats (AB, H, RBI, BB, TB, etc.)
-	•	Position (including multi-position entries such as LF/P, DP/P)
-	•	Last5_Flag for recent performance analysis
+### Nashville Housing Data Cleaning Project
+- Data cleaning and transformation using SQL  
+- Addressed missing values, formatting, and standardization  
+- 📂 Files: Data Cleaning Project_NashvilleHousing.sql  
 
-How to Use
-	1.	Select a team using the dashboard filter
-	2.	Use the Last 5 toggle to switch between:
-	    •	Full season data (FALSE)
-	    •	Last 5 games (TRUE)
-	3.	Review lineup tendencies to evaluate player positioning
-	4.	Use player stats to compare performance across the lineup
+### NBA Salary & Performance Analysis
+- Python-based analysis of salary vs performance  
+- 📂 File: NBA Salary & Performance Data.ipynb  
 
-Tools Used
-	•	Microsoft Excel
-	•	Data validation and dynamic formulas
-	•	Conditional formatting
-	•	Charts and visualizations
+### NFL Injury Research Paper
+- Academic research on injury trends and impacts  
+- 📂 File: Injuries in the NFL Research Paper.pdf  
 
-<img width="1440" height="871" alt="MEC_Scouting_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/4bf9baa7-c458-45be-a4d5-454fc527561e" />
-<img width="1440" height="872" alt="MEC_Scouting_Dashboard_Season_Screenshot" src="https://github.com/user-attachments/assets/e3ed9c0f-c9bc-4cd1-a19c-3723125e3926" />
+### Additional Projects
+- Movie Correlation Analysis (Python)  
+- Concussion Dataset Analysis (R)  
 
-Future Improvements
-	•	Automate data updates
-	•	Add more advanced visualizations
-	•	Integrate predictive lineup optimization
-	•	Expand pitching analysis metrics
+## Tools & Skills
+- Excel (dashboards, formulas, data modeling)  
+- SQL (data cleaning, querying)  
+- Python (pandas, analysis, visualization)  
+- R (statistical analysis)  
+- Data visualization and storytelling  
+
+## About This Portfolio
+This repository contains a collection of data analytics projects focused on sports analytics, healthcare data, and business datasets. Each project demonstrates data cleaning, analysis, and visualization skills across multiple tools and languages.
