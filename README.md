@@ -5,7 +5,8 @@
 ### College Softball Scouting Dashboard (MEC_Scouting_Dashboard)
 - Excel-based scouting and lineup analysis dashboard  
 - Features lineup tendencies, position analysis, and last 5 games toggle  
-- Built using dynamic formulas and structured game-level data  
+- Built using dynamic formulas and structured game-level data
+- The dashboard is actively being updated as the season is still in progress.
 - 📂 Files: MEC_Scouting_Data_2026.xlsx  
 
 #### MEC Scouting Dashboard Preview
